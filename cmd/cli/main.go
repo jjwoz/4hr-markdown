@@ -5,8 +5,8 @@ import (
 	"bytes"
 	"flag"
 	"fmt"
+	"github.com/jjwoz/4hr-markdown/pkg/parse"
 	"os"
-	"weekend-md/pkg/parse"
 )
 
 func main() {
